@@ -6,5 +6,5 @@
 * Resultados obtidos:
 * Instruções de uso do software: O software pode ser executado através do download do projeto em formato ZIP pelo Github, ou também através da execução do comando abaixo no terminal: 
 
-Deve-se acessar a pasta TrabalhoINC para a execução do arquiv. 
-O sistema permitirá que o usuário digite as respostas pré programadas pelo software para executar a predição. 
+  Deve-se acessar a pasta TrabalhoINC para a execução do arquivo. 
+  O sistema permitirá que o usuário digite as respostas pré programadas pelo software para executar a predição. 
