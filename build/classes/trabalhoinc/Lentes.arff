@@ -1,0 +1,33 @@
+@relation lentes-dataset
+
+@attribute Idade {Jovem,Pre_prebiotico,Prebiotico}
+@attribute Prescricao {Hipermetropia,Miopia}
+@attribute Astigmatico {Nao,Sim}
+@attribute Taxa {Reduzida,Normal}
+@attribute Lente {Nao,Leve,Forte}
+
+@data
+Jovem,Hipermetropia,Nao,Reduzida,Nao
+Jovem,Hipermetropia,Nao,Normal,Leve
+Jovem,Hipermetropia,Sim,Reduzida,Nao
+Jovem,Miopia,Sim,Reduzida,Forte
+Jovem,Hipermetropia,Nao,Reduzida,Nao
+Jovem,Hipermetropia,Nao,Normal,Leve
+Jovem,Hipermetropia,Sim,Reduzida,Nao
+Jovem,Hipermetropia,Sim,Normal,Forte
+Pre_prebiotico,Miopia,Nao,Reduzida,Nao
+Pre_prebiotico,Miopia,Nao,Normal,Leve
+Pre_prebiotico,Hipermetropia,Sim,Reduzida,Nao
+Pre_prebiotico,Hipermetropia,Sim,Normal,Forte
+Pre_prebiotico,Hipermetropia,Nao,Reduzida,Nao
+Pre_prebiotico,Hipermetropia,Nao,Normal,Leve
+Pre_prebiotico,Hipermetropia,Nao,Reduzida,Nao
+Pre_prebiotico,Hipermetropia,Sim,Normal,Nao
+Prebiotico,Miopia,Nao,Reduzida,Nao
+Prebiotico,Miopia,Nao,Normal,Nao
+Prebiotico,Miopia,Sim,Reduzida,Nao
+Prebiotico,Miopia,Sim,Normal,Forte
+Prebiotico,Hipermetropia,Nao,Reduzida,Nao
+Prebiotico,Hipermetropia,Nao,Normal,Leve
+Prebiotico,Hipermetropia,Sim,Reduzida,Nao
+Prebiotico,Hipermetropia,Sim,Normal,Nao
