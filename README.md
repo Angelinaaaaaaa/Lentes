@@ -11,3 +11,4 @@
   
  * Vídeos: 
    Vídeo1:  Apresentação do Problema, Técnica utilizada e Resultados obtidos: https://youtu.be/xRW36t-7sL8
+   Vídeo3:  Conclusões: https://youtu.be/8lKXNVOGljI
