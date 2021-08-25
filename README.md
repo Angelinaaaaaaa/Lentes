@@ -9,4 +9,4 @@
   Deve-se acessar a pasta TrabalhoINC para a execução do arquivo. 
   O sistema permitirá que o usuário digite as respostas pré programadas pelo software para executar a predição. 
   
- * Vídeo: https://youtu.be/rvH58vIVmBA
+ * Vídeo da apresentação do trabalho: https://youtu.be/rvH58vIVmBA
